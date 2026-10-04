@@ -1,0 +1,24 @@
+{
+    "days": [
+        {
+            "date": "2026-10-03",
+            "articles": [
+                {
+                    "id": 1,
+                    "title": "Version 1.0 of My Website Is Now Live!",
+                    "content": "My website v1.0, third redo, is officially live! This is a major step up from the first two versions I built on CodeHS, with a cleaner design, more features, and a better foundation for future updates. I’ll be using this site to share news about my projects, games, sub-sites, and other development work. I’ll be updating the site regularly, so be sure to check back here for the latest developer news!"
+                },
+                {
+                    "id": 2,
+                    "title": "Raft Survival Is Now in Development!",
+                    "content": "Raft Survival is officially in development! This is a survival game inspired by the mobile game Raft, but I’m aiming to take the concept much further with my own ideas, systems, environments, and gameplay. Development is currently being done in Unity 6.6, and I’ll definitely be putting my laptop through its paces along the way. I’ve already created the first asset for the game in Blender: the raft itself. More assets, gameplay systems, environments, and features are planned as development continues. I’ll be sharing progress and major updates here in Developer News, so stay tuned!"
+                },
+                {
+                    "id": 3,
+                    "title": "Aurellia AI Is Now in Development!",
+                    "content": "Aurellia AI is officially in development! Aurellia is a long-term AI project that I’m building as I continue learning advanced Python, machine learning, and AI development. Right now, I’m focused on strengthening my Python skills and learning how systems such as neural networks, training, data processing, and AI models actually work. The long-term goal is to build Aurellia into a real AI system of my own rather than simply connecting a game to a basic chatbot or pre-made AI service. Aurellia is also planned to play a vital role in my games, where I want to experiment with a new type of gameplay system that I personally haven’t seen used in a game before: Real AI. Instead of using AI as a simple scripted feature, I want Aurellia to eventually become a system that can genuinely process information, learn from data, and interact with the game in more dynamic ways. There is still a huge amount for me to learn before I can reach that goal, but Aurellia is going to be a major part of my future development projects. I’ll be sharing more updates as the project evolves!"
+                }
+            ]
+        }
+    ]
+}
