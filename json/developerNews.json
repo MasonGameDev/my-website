@@ -19,6 +19,17 @@
                     "content": "Aurellia AI is officially in development! Aurellia is a long-term AI project that I’m building as I continue learning advanced Python, machine learning, and AI development. Right now, I’m focused on strengthening my Python skills and learning how systems such as neural networks, training, data processing, and AI models actually work. The long-term goal is to build Aurellia into a real AI system of my own rather than simply connecting a game to a basic chatbot or pre-made AI service. Aurellia is also planned to play a vital role in my games, where I want to experiment with a new type of gameplay system that I personally haven’t seen used in a game before: Real AI. Instead of using AI as a simple scripted feature, I want Aurellia to eventually become a system that can genuinely process information, learn from data, and interact with the game in more dynamic ways. There is still a huge amount for me to learn before I can reach that goal, but Aurellia is going to be a major part of my future development projects. I’ll be sharing more updates as the project evolves!"
                 }
             ]
+        },
+        {
+            "date": "2026-10-18",
+            "articles": [
+                {
+                    "id": 4,
+                    "title": "Raft Survival — Development Day 1!",
+                    "category": "Development",
+                    "content": "Development on Raft Survival has officially begun! Day 1 focused on building the foundation for procedural 3D asset creation using Blender's Python API. I started developing a reusable utility library containing clearScene(), createCamera(), and createLights(). These functions are designed to clear existing scene objects, create configurable cameras, and set up configurable Area lights. I also worked on understanding Blender's object data, collections, positioning, rotations, and lighting properties. This is the first step toward automating asset creation and eventually building the player model for Raft Survival. Next up: testing the utilities inside Blender, setting up imports between scripts, and beginning player-model development!"
+                }
+            ]
         }
     ]
 }
