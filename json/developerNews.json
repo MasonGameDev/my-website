@@ -58,6 +58,17 @@
                     "content": "Today, I did some maintainance on the website and updated developer news. I have also taken time to plan a new BIG undertaking for an upcoming project. I'm making a game store called Mason's Steam Store. It's gonna be like Steam but with a way for me to monitize off it cause why not. Once I get a solid way to automate payments without the use of stripe or paypal, I will impliment that system. The basic Idea will be to create a platform where I can sell my games and other users can sell theirs as well. I will be making a free plan where you get one free game publication slot then each additional slot will cost about $0.50 to $5 depending on the size of the game. Keep an eye on developer news to hear the next announcement regarding the store."
                 }
             ]
+        },
+        {
+            "date": "2026-11-10",
+            "articles": [
+                {
+                    "id": 8,
+                    "title": "Aurellia AI — Development Day 1!",
+                    "category": "Development Log",
+                    "content": "Development on Aurellia AI has officially entered its first major implementation phase! Today's work focused on establishing the core architecture and beginning development of Aurellia's natural language processing system. I created the initial Python project structure, including the central AurelliaEngine class, which serves as the foundation for handling user prompts and generating responses. I also implemented the first version of Aurellia's TextProcessor component. This component currently supports text normalization, basic whitespace-based tokenization, punctuation separation using Python's regular expression module, and input validation to detect empty or whitespace-only prompts. I created independent tests for the TextProcessor and successfully verified that it processes different inputs correctly, including sentences containing punctuation and invalid inputs. The project is being developed entirely from scratch, with the long-term goal of creating an independent conversational language model rather than relying on an existing AI API or pretrained model. Next, development will move toward building Aurellia's vocabulary system, which will assign numerical IDs to individual tokens. This will establish the connection between processed human language and the numerical representations that neural networks require. Aurellia is still in its earliest stages, but the foundations are officially being built!"
+                }
+            ]
         }
     ]
 }
