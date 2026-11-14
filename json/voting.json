@@ -1,0 +1,22 @@
+{
+    "days": {
+        "2026-11-14": {
+            "question": "If I were to do a Minecraft survival series, what edition should I play on? And should I play with mods/addons or without mods/addons?",
+            "options": [
+                "A. Java Edition with mods",
+                "B. Java Edition without mods",
+                "C. Bedrock Edition with addons",
+                "D. Bedrock Edition without addons"
+            ]
+        },
+        "2026-11-15": {
+            "question": "What would you wanna see more development progress on?",
+            "options": [
+                "A. Aurellia AI",
+                "B. Raft Survival",
+                "C. Website subsites",
+                "D. Beyond The Overworld (My own Minecraft Bedrock Edition Addon)"
+            ]
+        }
+    }
+}
